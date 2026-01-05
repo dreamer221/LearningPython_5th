@@ -1,5 +1,5 @@
-X = 99
+import first
 
-def setX(new):
-    global X
-    X = new
+print(first.X)
+first.X = 77
+
