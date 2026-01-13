@@ -1,2 +1,1 @@
-from .. import script0
-
+import a 
